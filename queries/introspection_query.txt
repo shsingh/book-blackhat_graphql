@@ -1,5 +1,5 @@
 # source: GraphQL Voyager
- 
+
 query IntrospectionQuery {
   __schema {
 

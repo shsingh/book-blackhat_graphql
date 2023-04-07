@@ -6,4 +6,3 @@
 **Links**:
 - VMware Workstation - https://kali.download/virtual-images/kali-2021.4a/kali-linux-2021.4a-vmware-amd64.7z.torrent
 - Oracle VirtualBox - https://kali.download/virtual-images/kali-2021.4a/kali-linux-2021.4a-virtualbox-amd64.ova.torrent
-
